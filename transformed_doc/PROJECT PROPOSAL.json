@@ -1,0 +1,161 @@
+[
+  {
+    "sid": "/1-brief-description-of-open-source-project-paperclip",
+    "title": "1. Brief Description of Open Source Project Paperclip",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/2-describe-a-hypothetical-operational-environment",
+    "title": "2. Describe a hypothetical operational environment",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/3-diagram-of-system-engineering-view-in-the-hypothetical-environment",
+    "title": "3. Diagram of System Engineering View in the hypothetical environment",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/4-threats-perceived-by-users-of-the-software-in-its-intended-operational-environment",
+    "title": "4. Threats perceived by users of the software in its intended operational environment",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/5-list-of-security-features-in-the-software",
+    "title": "5. List of security features in the software",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/6-motivation-for-selecting-paperclip",
+    "title": "6. Motivation for Selecting Paperclip",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/i-chose-paperclip-for-this-project-because-ypical-chatbot-or-single-ai-agent-it-is-part-of-this-new-wave-of-software-built-to-handle-lots-of-autonomous-ai-agents-inside-organizations-basically-paperclip-acts-as-a-central-hub-where-you-can-organize-agents-set-their-tasks-give-them-goals-keep-an-eye-on-what-theyre-doing-and-set-the-rules-they-follow",
+        "title": "I chose Paperclip for this project because ypical chatbot or single AI agent. It is part of this new wave of software built to handle lots of autonomous AI agents inside organizations. Basically, Paperclip acts as a central hub where you can organize agents, set their tasks, give them goals, keep an eye on what they're doing, and set the rules they follow.",
+        "level": 2,
+        "parent": "/6-motivation-for-selecting-paperclip",
+        "children": []
+      },
+      {
+        "sid": "/for-anyone-interested-in-cybersecurity-or-systems-security-engineering-paperclip-raises-some-fascinating-questions-these-ai-agents-arent-just-answering-questions-they-interact-with-real-stuff-source-code-files-apis-credentials-model-providers-data-repositories-and-other-internal-resources-security-cant-just-focus-on-human-accounts-anymore-now-the-system-has-to-decide-what-these-agents-can-see-and-do",
+        "title": "For anyone interested in cybersecurity or systems security engineering, Paperclip raises some fascinating questions. These AI agents aren’t just answering questions they interact with real stuff: source code, files, APIs, credentials, model providers, data repositories, and other internal resources. Security can’t just focus on human accounts anymore. Now, the system has to decide what these agents can see and do.",
+        "level": 2,
+        "parent": "/6-motivation-for-selecting-paperclip",
+        "children": []
+      },
+      {
+        "sid": "/with-this-project-we-get-to-revisit-core-security-ideaslike-authentication-authorization-least-privilege-isolation-secrets-management-auditing-and-secure-configurationbut-apply-them-in-a-space-thats-changing-fast-autonomous-ai-systems",
+        "title": "With this project, we get to revisit core security ideas—like authentication, authorization, least privilege, isolation, secrets management, auditing, and secure configuration—but apply them in a space that’s changing fast: autonomous AI systems.",
+        "level": 2,
+        "parent": "/6-motivation-for-selecting-paperclip",
+        "children": []
+      }
+    ]
+  },
+  {
+    "sid": "/7-open-source-project-description",
+    "title": "7. Open-Source Project Description",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/8-architecture-and-platform",
+    "title": "8. Architecture and Platform",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/9-programming-languages-and-technologies",
+    "title": "9. Programming Languages and Technologies",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/10-contributors-and-project-activity",
+    "title": "10. Contributors and Project Activity",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/11-use-and-popularity",
+    "title": "11. Use and Popularity",
+    "level": 1,
+    "children": []
+  },
+  {
+    "sid": "/12-documentation-sources",
+    "title": "12. Documentation Sources",
+    "level": 1,
+    "children": [
+      {
+        "sid": "/13-license",
+        "title": "13. License",
+        "level": 3,
+        "parent": "/12-documentation-sources",
+        "children": []
+      },
+      {
+        "sid": "/14-contribution-procedures",
+        "title": "14. Contribution Procedures",
+        "level": 3,
+        "parent": "/12-documentation-sources",
+        "children": []
+      },
+      {
+        "sid": "/15-contributor-agreements",
+        "title": "15. Contributor Agreements",
+        "level": 3,
+        "parent": "/12-documentation-sources",
+        "children": []
+      },
+      {
+        "sid": "/16-security-related-history",
+        "title": "16. Security-Related History",
+        "level": 2,
+        "parent": "/12-documentation-sources",
+        "children": [
+          {
+            "sid": "/17security-policy",
+            "title": "17.Security Policy",
+            "level": 3,
+            "parent": "/16-security-related-history",
+            "children": []
+          },
+          {
+            "sid": "/18remote-code-execution-and-dns-rebinding",
+            "title": "18.Remote Code Execution and DNS Rebinding",
+            "level": 3,
+            "parent": "/16-security-related-history",
+            "children": []
+          },
+          {
+            "sid": "/19-arbitrary-file-read",
+            "title": "19. Arbitrary File Read",
+            "level": 3,
+            "parent": "/16-security-related-history",
+            "children": []
+          },
+          {
+            "sid": "/20-security-engineering-decisions-and-features",
+            "title": "20. Security Engineering Decisions and Features",
+            "level": 3,
+            "parent": "/16-security-related-history",
+            "children": []
+          }
+        ]
+      },
+      {
+        "sid": "/21-reflection-on-learning",
+        "title": "21. Reflection on Learning",
+        "level": 2,
+        "parent": "/12-documentation-sources",
+        "children": []
+      }
+    ]
+  }
+]
