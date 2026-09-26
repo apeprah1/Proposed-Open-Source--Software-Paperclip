@@ -48,11 +48,7 @@ For the hypothetical **enterprise deployment of Paperclip**, the following secur
 
 # 6. Motivation for Selecting Paperclip
 
-## I chose Paperclip for this project because ypical chatbot or single AI agent. It is part of this new wave of software built to handle lots of autonomous AI agents inside organizations. Basically, Paperclip acts as a central hub where you can organize agents, set their tasks, give them goals, keep an eye on what they're doing, and set the rules they follow.
-
-## For anyone interested in cybersecurity or systems security engineering, Paperclip raises some fascinating questions. These AI agents aren’t just answering questions they interact with real stuff: source code, files, APIs, credentials, model providers, data repositories, and other internal resources. Security can’t just focus on human accounts anymore. Now, the system has to decide what these agents can see and do.
-
-## With this project, we get to revisit core security ideas—like authentication, authorization, least privilege, isolation, secrets management, auditing, and secure configuration—but apply them in a space that’s changing fast: autonomous AI systems.
+I chose Paperclip for this project because ypical chatbot or single AI agent. It is part of this new wave of software built to handle lots of autonomous AI agents inside organizations. Basically, Paperclip acts as a central hub where you can organize agents, set their tasks, give them goals, keep an eye on what they're doing, and set the rules they follow. For anyone interested in cybersecurity or systems security engineering, Paperclip raises some fascinating questions. These AI agents aren’t just answering questions they interact with real stuff: source code, files, APIs, credentials, model providers, data repositories, and other internal resources. Security can’t just focus on human accounts anymore. Now, the system has to decide what these agents can see and do.With this project, we get to revisit core security ideas like authentication, authorization, least privilege, isolation, secrets management, auditing, and secure configuration but apply them in a space that’s changing fast: autonomous AI systems.
 
 # 7. Open-Source Project Description
 
